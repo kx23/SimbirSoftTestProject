@@ -37,9 +37,11 @@
 1. Запустите тесты с сохранением результатов:
    ```bash
    pytest --alluredir=allure-results
+   ```
 2. Сгенерируйте и откройте HTML отчёт:
    ```bash
-   allure serve allure-reports
+   allure serve allure-results
+   ```
 ---
 
 ## Примеры тест-кейсов
