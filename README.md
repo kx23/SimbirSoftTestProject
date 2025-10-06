@@ -99,3 +99,11 @@
 #### Ожидаемый результат:
 
 Форма не отправляется, alert не появляется.
+
+---
+
+## Отчет Allure
+
+<img width="1919" height="950" alt="allure_report_screenshot_1" src="https://github.com/user-attachments/assets/75719afd-ff88-41b9-9bf8-2e2c1dc1cf0b" />
+
+<img width="1915" height="949" alt="allure_report_screenshot_2" src="https://github.com/user-attachments/assets/c391912f-c016-4e51-9fed-77d6354e9dff" />
